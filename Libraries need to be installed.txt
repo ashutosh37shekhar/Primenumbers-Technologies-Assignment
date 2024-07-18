@@ -1,0 +1,6 @@
+Libraries need to be installed
+
+selenium library
+beautifulsoup4 library
+pandas library
+chromedriver executable (if you're using Chrome as the webdriver)
